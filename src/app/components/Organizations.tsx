@@ -7,7 +7,7 @@ const organizations = [
   {
     name: 'Perspektif UTY',
     role: 'Head of Graphic Design & Videography',
-    period: 'May 2024 - Present',
+    period: 'May 2024 - Dec 2024',
     location: 'Yogyakarta',
     description: 'A platform designed to connect stories, perspectives, and unique inspirations from #ManusiaUTY.',
     achievement: 'Best Division Award (2024)',
