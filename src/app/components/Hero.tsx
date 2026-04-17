@@ -97,7 +97,7 @@ export function Hero() {
             transition={{ duration: 0.6 }}
             className="mb-6"
           >
-            <span className="text-purple-400 font-mono text-sm sm:text-base">Hi there! I'm</span>
+            <span className="text-purple-400 font-mono text-sm sm:text-base">Hi there! I'm Hans</span>
           </motion.div>
 
           {/* Name */}
