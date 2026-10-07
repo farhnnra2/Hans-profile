@@ -9,7 +9,7 @@ const experiences = [
     company: 'PT. Javan Cipta Solusi',
     role: 'Quality Control Intern',
     location: 'Sleman',
-    period: 'Oct 2025 - Present',
+    period: 'Oct 2025 - Apr 2026',
     description: 'IT consulting firm focused on digital transformation and custom software development.',
     highlights: [
       'Designed and executed 100+ comprehensive test scenarios achieving 100% test coverage',
