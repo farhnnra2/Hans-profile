@@ -165,6 +165,9 @@ export function Skills() {
               <p className="text-gray-300">
                 🎓 Data Engineering Professional - <span className="text-purple-400">RapidMiner</span>
               </p>
+              <p className="text-gray-300">
+                🎓 Video Audio Professional Certification - <span className="text-purple-400">Bengkel Cinema Indonesia</span>
+              </p>
             </div>
           </motion.div>
         </motion.div>
