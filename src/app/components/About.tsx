@@ -150,8 +150,8 @@ export function About() {
                   whileHover={{ scale: 1.05 }}
                   className="p-6 bg-gradient-to-br from-blue-600/20 to-blue-800/20 backdrop-blur-sm border border-blue-500/30 rounded-xl text-center"
                 >
-                  <div className="text-3xl sm:text-4xl font-bold text-white mb-2">3+</div>
-                  <div className="text-gray-300 text-sm">Years Experience</div>
+                  <div className="text-3xl sm:text-4xl font-bold text-white mb-2">6+</div>
+                  <div className="text-gray-300 text-sm">Months Experience</div>
                 </motion.div>
                 <motion.div
                   whileHover={{ scale: 1.05 }}
